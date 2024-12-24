@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @Neophyte614
 - 👀 I’m interested in Cyber Security
-- 🌱 I’m currently learning Python Programming
 - 💞️ I’m looking to collaborate on projects in relation to this Career
 
 
