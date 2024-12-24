@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Neophyte614
+- 👋 Hi, I’m Steph
 - 👀 I’m interested in Cyber Security
 - 💞️ I’m looking to collaborate on projects in relation to this Career
 
