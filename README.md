@@ -1,6 +1,6 @@
-- 👋 Hi, I’m Steph
-- 👀 I’m interested in Cyber Security
-- 💞️ I’m looking to collaborate on projects in relation to this Career
+- 👋 The Name is Steph
+- 👀 What I Do is hunt for vulnerabilities (mostly in my own code).
+- 😅 Do They always exist?  Sadly, yes.  It's a target-rich environment.
 
 
 <!---
